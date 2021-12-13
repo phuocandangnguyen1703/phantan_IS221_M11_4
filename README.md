@@ -23,5 +23,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - Trần Mẫn Quân         - 19520873
 - Đặng Nguyễn Phước An  - 19521171
 
-
 @UIT - Trường đại học Công nghệ Thông tin - ĐHQG TP.HCM
