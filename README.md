@@ -66,18 +66,16 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 <p align="center"><a href="https://www.uit.edu.vn/" target="_blank"><img src="https://www.uit.edu.vn/sites/vi/files/images/Logos/Logo_UIT_Web.png" class="img-fluid" alt="" width=200></a></p>
 
-## Đồ án cuối kỳ
+## BÀI TẬP LỚN 1 - NHÓM 4
 
-- Môn học: Phát triển ứng dụng web (IS207.M11.HTCL)
-- Giảng viên hướng dẫn: ThS. Vũ Minh Sang
+- Môn học: Cơ sở dữ liệu phân tán (IS211.M11.HTCL)
+- Giảng viên hướng dẫn: Thầy Nguyễn Minh Nhật
 
 ## Tác giả
-- Phan Hồng Gia Hân - 19520515 (Nhóm trưởng)
+- Lê Huỳnh Lan Hạ - 19521453 (Nhóm trưởng)
+- Phan Hồng Gia Hân - 19520515 
 - Trần Mẫn Quân - 19520873
 - Đặng Nguyễn Phước An - 19521171
-- Lê Huỳnh Lan Hạ - 19521453
 
-## Giới thiệu về đồ án
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 @UIT - Trường đại học Công nghệ Thông tin - ĐHQG TP.HCM
