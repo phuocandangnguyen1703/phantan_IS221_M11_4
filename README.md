@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## License
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
+
 <p align="center"><a href="https://www.uit.edu.vn/" target="_blank"><img src="https://www.uit.edu.vn/sites/vi/files/images/Logos/Logo_UIT_Web.png" class="img-fluid" alt="" width=200></a></p>
 
 ## BÀI TẬP LỚN 1 - NHÓM 4
